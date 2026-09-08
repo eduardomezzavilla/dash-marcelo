@@ -1,5 +1,15 @@
 {
-  "pendentes": [],
+  "pendentes": [
+    {
+      "id": "mtsk2vduh1up38",
+      "texto": "Cortar se não gerar MQL até a próxima sexta-feira",
+      "nivel": "anuncio",
+      "nome": "AD017_VIDEO_BTBExp-CAP",
+      "campanha": "BTBExp | E2-CAP | P2-FRIO | LEAD | ABO | 2026-07-25 | Teste de Ads",
+      "conjunto": "AUTO | Advantage | AD17",
+      "criado_em": "2026-09-08T07:57:57-03:00"
+    }
+  ],
   "agendadas": [
     {
       "id": "msqlc8fnrmnpld",
