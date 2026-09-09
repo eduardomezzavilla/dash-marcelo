@@ -1,15 +1,5 @@
 {
-  "pendentes": [
-    {
-      "id": "mtsk2vduh1up38",
-      "texto": "Cortar se não gerar MQL até a próxima sexta-feira",
-      "nivel": "anuncio",
-      "nome": "AD017_VIDEO_BTBExp-CAP",
-      "campanha": "BTBExp | E2-CAP | P2-FRIO | LEAD | ABO | 2026-07-25 | Teste de Ads",
-      "conjunto": "AUTO | Advantage | AD17",
-      "criado_em": "2026-09-08T07:57:57-03:00"
-    }
-  ],
+  "pendentes": [],
   "agendadas": [
     {
       "id": "msqlc8fnrmnpld",
@@ -36,6 +26,19 @@
       "acao_resumo": "Cortar anúncio se sem MQL",
       "status": "feito",
       "concluido_em": "2026-08-13T14:18:03-03:00"
+    },
+    {
+      "id": "mtsk2vduh1up38",
+      "texto": "Cortar se não gerar MQL até a próxima sexta-feira",
+      "nivel": "anuncio",
+      "nome": "AD017_VIDEO_BTBExp-CAP",
+      "campanha": "BTBExp | E2-CAP | P2-FRIO | LEAD | ABO | 2026-07-25 | Teste de Ads",
+      "conjunto": "AUTO | Advantage | AD17",
+      "criado_em": "2026-09-08T07:57:57-03:00",
+      "data_alvo": "2026-09-11",
+      "acao_resumo": "Cortar se não gerar MQL",
+      "status": "agendado",
+      "concluido_em": null
     }
   ]
 }
